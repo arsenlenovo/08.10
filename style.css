@@ -1,0 +1,54 @@
+h1{
+  color: rgb(166, 194, 10);
+  font-size: 30px;
+  font-weight: 700;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+h2{
+  color: rgb(29, 119, 161);
+  font-size:60px;
+  font-weight: 700;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: line-through;
+  text-transform: lowercase;
+}
+h3{
+  color: rgb(167, 42, 42);
+  font-size: 50px;
+  font-weight: 100;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+h4{
+  color: rgb(37, 4, 68);
+  font-size: 50px;
+  font-weight: 400;
+  font-style: italic;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  
+}
+h5{
+  color: darkorchid;
+  font-size: 40px;
+  font-weight: 500;
+  font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+}
+h6{
+color: black;
+font-size: 50px;
+font-weight: 500;
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+}
+p{
+  text-align:right;
+}

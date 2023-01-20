@@ -1,0 +1,38 @@
+h1{
+  color: #ff0000;
+  font-size: 50px;
+  font-weight: 200px;
+  font-style: normal;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: overline;
+  text-transform: uppercase;
+}
+h2{
+  color: rgb(29, 12, 12);
+  font-size: 40px;
+  font-weight: 300px;
+  font-style: normal;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: line-through;
+  text-transform: capitalize;
+}
+h3{
+  color: rgb(255, 215, 0);
+  font-size: 100px;
+  font-weight: 600px;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: overline;
+  text-transform: capitalize;
+}
+h4{
+  color: rgb(0, 0, 255);
+  font-size: 99px;
+  font-weight: 600px;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+
